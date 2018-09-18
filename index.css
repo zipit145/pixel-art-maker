@@ -1,0 +1,39 @@
+body {
+    width: 1200px;
+    height: 1200px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+.box {
+    width: 10px;
+    height: 10px;
+    border: 1px solid;
+}
+.redBox {
+    background-color: red;
+}
+.colorBox {
+    width: 50px;
+    height: 50px;
+    border: 1px solid;
+}
+
+.colorBoxIndicator {
+    width: 50px;
+    height: 50px;
+    border: 1px solid;
+}
+
+.redClass{
+    background-color: red;
+}
+.blueClass{
+    background-color: blue;
+}
+.purpleClass{
+    background-color: purple;
+}
+.greenClass{
+    background-color: green;
+}
